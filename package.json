@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.1.2"
+    "express": "^4.15.2"
   }
 }
+
+
+// you can add the dependencies manually
+
